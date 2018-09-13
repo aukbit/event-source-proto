@@ -1,0 +1,5 @@
+Version 0.1.0
+ - ignore version script
+ - define generic eventsource proto
+ - Initial commit
+
