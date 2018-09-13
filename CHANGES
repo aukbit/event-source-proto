@@ -1,3 +1,7 @@
+Version 0.1.1:
+ - review readme file
+ - Merge branch release-0.1.0
+
 Version 0.1.0
  - ignore version script
  - define generic eventsource proto
