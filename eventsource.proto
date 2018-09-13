@@ -41,7 +41,8 @@ message Event {
     // Created has the identification of which service has created the event and
     // respective timestamp at which the event ocurred
     google.protobuf.Timestamp created = 8;
-
+    // Metadata
+    map<string, string> metadata = 9;
     // ...
 }
 
