@@ -1,3 +1,7 @@
+Version 0.1.2:
+ - change proto package name
+ - Merge branch release-0.1.1
+
 Version 0.1.1:
  - review readme file
  - Merge branch release-0.1.0
