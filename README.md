@@ -9,5 +9,5 @@ $ go get -u github.com/golang/protobuf/{proto,protoc-gen-go}
 
 ## Compile proto file
 ```
-$ protoc eventsource.proto --go_out=plugins=grpc:$GOPATH/src
+$ protoc es/es.proto --go_out=plugins=grpc:$GOPATH/src
 ```
