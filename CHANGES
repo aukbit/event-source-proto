@@ -1,3 +1,7 @@
+Version 0.2.1:
+ - define proto go_package
+ - Merge branch release-0.2.0
+
 Version 0.2.0:
  - refactor event message - add snap command
  - Merge branch release-0.1.3
