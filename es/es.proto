@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package event_source_proto;
+package es;
 
 option go_package = "github.com/aukbit/event-source-proto/es";
 
